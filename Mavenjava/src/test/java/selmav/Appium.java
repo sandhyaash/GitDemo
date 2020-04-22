@@ -7,5 +7,9 @@ public class Appium {
 	public void appiumtest() {
 		System.out.println("Appium tested successfully!!!");
 	}
+	@Test
+	public void appiumtest2() {
+		System.out.println("This is to test app2");
+	}
 
 }
