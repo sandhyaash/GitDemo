@@ -12,4 +12,9 @@ public class Appium {
 		System.out.println("This is to test app2");
 	}
 
+	
+	@Test
+	public void appiumtest3() {
+		System.out.println("This is to test app3");
+	}
 }
